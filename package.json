@@ -1,0 +1,25 @@
+{
+  "name": "node_authentication_using_passport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoSosaUV/Node_Authentication_using_Passport.git"
+  },
+  "author": "Francisco Sosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoSosaUV/Node_Authentication_using_Passport/issues"
+  },
+  "homepage": "https://github.com/FranciscoSosaUV/Node_Authentication_using_Passport#readme",
+  "dependencies": {
+    "connect-redis": "^4.0.3",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "passport": "^0.4.0"
+  }
+}
